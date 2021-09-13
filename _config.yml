@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C프로그래밍"
+title                    : "더 월드 오브 C"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "이선오"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "이선오"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "그냥... 그냥 학생"
   location         : "Somewhere"
   email            : "21-20618@hafs.hs.kr"
   links:
